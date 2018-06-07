@@ -1,0 +1,7 @@
+c:\users\shishika.bethireddy\source\repos\TraineeWcf\TraineeWcf\bin\TraineeWcf.dll.config
+c:\users\shishika.bethireddy\source\repos\TraineeWcf\TraineeWcf\bin\TraineeWcf.dll
+c:\users\shishika.bethireddy\source\repos\TraineeWcf\TraineeWcf\bin\TraineeWcf.pdb
+c:\users\shishika.bethireddy\source\repos\TraineeWcf\TraineeWcf\obj\Debug\TraineeWcf.csprojAssemblyReference.cache
+c:\users\shishika.bethireddy\source\repos\TraineeWcf\TraineeWcf\obj\Debug\TraineeWcf.csproj.CoreCompileInputs.cache
+c:\users\shishika.bethireddy\source\repos\TraineeWcf\TraineeWcf\obj\Debug\TraineeWcf.dll
+c:\users\shishika.bethireddy\source\repos\TraineeWcf\TraineeWcf\obj\Debug\TraineeWcf.pdb
