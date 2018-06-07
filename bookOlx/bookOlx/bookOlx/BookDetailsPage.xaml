@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="bookOlx.BookDetailsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="4*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+            
+                <Image Grid.Row="0" HorizontalOptions="Center" x:Name="imageLabel"/>
+                <Label HorizontalOptions="Start" Grid.Row="1" x:Name="bookNameLabel"/>
+                <Label HorizontalOptions="Start" Grid.Row="2" x:Name="authorNameLabel"/>
+                <Label HorizontalOptions="Start" Grid.Row="3" x:Name="priceLabel"/>
+                <Label HorizontalOptions="Start" Grid.Row="4" x:Name="descriptionLabel"/>
+                <Button HorizontalOptions="Center" Grid.Row="5" Text="BUY NOW" Clicked="Button_Clicked"/>
+             </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

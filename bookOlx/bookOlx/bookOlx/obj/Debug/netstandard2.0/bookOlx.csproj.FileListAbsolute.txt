@@ -1,0 +1,9 @@
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\obj\Debug\netstandard2.0\bookOlx.csprojAssemblyReference.cache
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\obj\Debug\netstandard2.0\bookOlx.csproj.CoreCompileInputs.cache
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\obj\Debug\netstandard2.0\bookOlx.AssemblyInfoInputs.cache
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\obj\Debug\netstandard2.0\bookOlx.AssemblyInfo.cs
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\bin\Debug\netstandard2.0\bookOlx.deps.json
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\bin\Debug\netstandard2.0\bookOlx.dll
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\bin\Debug\netstandard2.0\bookOlx.pdb
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\obj\Debug\netstandard2.0\bookOlx.dll
+C:\Users\Shishika.Bethireddy\Desktop\Xamrin\bookOlx\bookOlx\bookOlx\obj\Debug\netstandard2.0\bookOlx.pdb
