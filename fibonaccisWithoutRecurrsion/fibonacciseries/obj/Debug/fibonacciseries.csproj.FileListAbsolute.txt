@@ -1,0 +1,7 @@
+C:\Users\Shishika.Bethireddy\source\repos\fibonacciseries\fibonacciseries\obj\Debug\fibonacciseries.csprojAssemblyReference.cache
+C:\Users\Shishika.Bethireddy\source\repos\fibonacciseries\fibonacciseries\obj\Debug\fibonacciseries.csproj.CoreCompileInputs.cache
+C:\Users\Shishika.Bethireddy\source\repos\fibonacciseries\fibonacciseries\bin\Debug\fibonacciseries.exe.config
+C:\Users\Shishika.Bethireddy\source\repos\fibonacciseries\fibonacciseries\bin\Debug\fibonacciseries.exe
+C:\Users\Shishika.Bethireddy\source\repos\fibonacciseries\fibonacciseries\bin\Debug\fibonacciseries.pdb
+C:\Users\Shishika.Bethireddy\source\repos\fibonacciseries\fibonacciseries\obj\Debug\fibonacciseries.exe
+C:\Users\Shishika.Bethireddy\source\repos\fibonacciseries\fibonacciseries\obj\Debug\fibonacciseries.pdb
