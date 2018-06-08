@@ -1,0 +1,11 @@
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\bin\Debug\netcoreapp2.0\ADO_Test.deps.json
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\bin\Debug\netcoreapp2.0\ADO_Test.runtimeconfig.json
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\bin\Debug\netcoreapp2.0\ADO_Test.runtimeconfig.dev.json
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\bin\Debug\netcoreapp2.0\ADO_Test.dll
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\obj\Debug\netcoreapp2.0\ADO_Test.csprojAssemblyReference.cache
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\obj\Debug\netcoreapp2.0\ADO_Test.csproj.CoreCompileInputs.cache
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\obj\Debug\netcoreapp2.0\ADO_Test.AssemblyInfoInputs.cache
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\obj\Debug\netcoreapp2.0\ADO_Test.AssemblyInfo.cs
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\bin\Debug\netcoreapp2.0\ADO_Test.pdb
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\obj\Debug\netcoreapp2.0\ADO_Test.dll
+C:\Users\Shishika.Bethireddy\source\repos\ADO_Test\ADO_Test\obj\Debug\netcoreapp2.0\ADO_Test.pdb
